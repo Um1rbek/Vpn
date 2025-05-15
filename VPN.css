@@ -1,0 +1,508 @@
+.VPN{
+    width: 1400px;
+    margin: auto;
+
+}
+
+.wrapper{
+
+    padding: 50px 50px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    width: 1200px;
+    margin: auto;
+
+}
+
+.vpn__logo{
+    background-color:bisque;
+    color: bisque;
+    
+
+}
+
+.ul__item{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+
+}
+
+.li__vpn{
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #4F5665;
+
+
+
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #4F5665;
+
+
+
+/* Help */
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #4F5665;
+
+
+}
+
+.btn__vpn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    justify-content: space-between;
+    text-align: end;
+}
+
+.vpn__btn{
+
+
+/* Rectangle 249 */
+border: 1px solid #F53855;
+border-radius: 50px;
+
+
+/* Sign Up */
+
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #F53855;
+
+
+
+
+}
+
+.vpn__logo{
+    width: 200px;
+}
+
+
+/* WWWWWWWWWWWWW */
+
+.w{
+
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 80px;
+
+}
+
+
+.w__title{
+
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 70px;
+/* or 140% */
+
+color: #0B132A;
+width: 545px;
+}
+
+.w__text{
+width: 500px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+
+color: #4F5665;
+
+
+}
+
+.w__btn{
+
+
+background-color: #F53838;
+
+width: 110px;
+height: 30px;
+border-radius: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+
+
+/* user */
+
+
+.user{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background-color: rgb(251, 244, 235);
+    padding: 20px 20px;
+    gap: 300px;
+    width: 1200px;
+}
+
+.user__31{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 10px;
+    justify-content: space-between;
+}
+
+
+/* 
+FREE */
+.free__text{
+    width: 190px;
+    display: flex;
+    align-items: center;
+    color: #76787c;
+}
+
+
+.free__title{
+
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+/* identical to box height, or 120% */
+text-align: center;
+
+color: #0B132A;
+
+
+}
+
+
+.free__div{
+    border: 1px solid;
+    padding: 42px 40px;
+    align-items: center;
+    margin-top: 50px;
+    width: 180px;
+}
+
+.free__btn{
+    width: 107px;
+    color: #F53838;
+    border-color: #F53855;
+    height: 30px;
+    border-radius: 12px;
+
+}
+
+
+.free{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 1240px;
+    gap: 90px;
+
+}
+
+
+/* MANNY */
+
+
+.manny{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    gap: 50px;
+    padding: 50px 50px;
+}
+
+
+.manny__title{
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+/* or 143% */
+
+color: #0B132A;
+width: 390px;
+
+
+}
+
+
+.manny__text{
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+
+color: #4F5665;
+
+width: 430px;
+}
+
+.manny__p{
+
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+color: #4F5665;
+
+
+}
+
+
+.manny__p__text{
+    margin-top: 30px;
+}
+
+/* .PLan */
+
+
+.plan__title{
+width: 380px;
+margin: auto;
+margin-top: 60px;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+/* identical to box height, or 143% */
+text-align: center;
+
+color: #0B132A;
+
+
+
+}
+
+.plan__text{
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+text-align: center;
+
+color: #4F5665;
+
+width: 505px;
+margin: auto;
+
+
+}
+
+/* flag */
+
+.flag{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 30px;
+}
+
+/* People */
+
+.people__text{
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+display: flex;
+align-items: center;
+
+color: #0B132A;
+
+width: 340px;
+}
+
+.people__title{
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #0B132A;
+
+
+}
+
+.people{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    
+
+}
+
+.people__for{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    margin: auto;
+}
+
+
+.people__in{
+    border: 1px solid;
+    width: 400px;
+    margin-top: 30px;
+}
+
+.people__img{
+    margin-left: 20px;
+}
+
+.people__nam{
+     margin-right: 20px;
+}
+
+.people__home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+/* Now */
+
+.now{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 30px;
+    padding: 0px 50px;
+    border: 1px solid;
+    width: 1170px;
+    justify-content: space-between;
+}
+
+.now__title{
+
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 45px;
+/* or 129% */
+display: flex;
+align-items: center;
+
+color: #0B132A;
+width: 360px;
+
+
+}
+
+
+.now__text{
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+/* or 188% */
+display: flex;
+align-items: center;
+
+color: #4F5665;
+
+
+ 
+}
+
+
+.now__btn{
+    width: 250px;
+    height: 45px;
+    background-color: #F53855;
+color: azure;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.product{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
+    width: 1180px;
+    justify-content: space-between;
+    padding: 40px 50px;
+}
+
+.product__right{
+    display: flex;
+    gap: 100px;
+}
+.product__p{
+    width: 360px;
+    color: #4F5665;
+}
